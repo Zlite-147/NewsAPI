@@ -1,4 +1,4 @@
-console.log("Welcome TO News API DEMO");
+console.log("Welcome To News API DEMO");
 
 // Initialize the news api parameters
 let source = 'the-times-of-india';
