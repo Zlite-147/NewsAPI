@@ -18,3 +18,30 @@
 
 ---
 
+### Implementation Of NewsAPI
+- ![](1.png)
+- ![](2.png)
+- ![](3.png)
+
+---
+### Technology Used
+- HTML
+- Css
+- Javascript
+- Bootstrap Library
+
+## FAQ
+
+- **Is News API is free Services?**
+    - Yes,it is totally free for beginner.
+
+---
+
+## Contact Us
+
+Reach out to me at one of the following places!
+
+- Email at <a href="zlite147@gmail.com" target="_blank">`zlite147@gmail.com`</a>
+
+
+---
