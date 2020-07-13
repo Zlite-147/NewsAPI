@@ -2,11 +2,12 @@ console.log("Welcome TO News API DEMO");
 
 // Initialize the news api parameters
 let source = 'the-times-of-india';
-let apiKey = 'f3a591da3bb2428eb71e4d82b79bccf6'
+//Replace ur API Key
+let apiKey = 'f3a591da3bb2428eb71*************'
 
 // Initialize URLS
-let categoryURL = "http://newsapi.org/v2/sources?language=en&apiKey=f3a591da3bb2428eb71e4d82b79bccf6";
-let headingURL = "http://newsapi.org/v2/top-headlines?country=in&apiKey=f3a591da3bb2428eb71e4d82b79bccf6";
+let categoryURL = "http://newsapi.org/v2/sources?language=en&apiKey=f3a591da3bb2428eb71***********";
+let headingURL = "http://newsapi.org/v2/top-headlines?country=in&apiKey=f3a591da3bb2428eb71e4************";
 let cardNews = document.getElementById("cardNews");
 
 
